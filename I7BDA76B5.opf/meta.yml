@@ -1,0 +1,36 @@
+id: I7BDA76B5
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:23:04.028301'
+last_modified: '2022-06-19T14:23:04.028312'
+parser: null
+source_metadata:
+  title: Abbatial History of gSang phu sNeu thog Monastery
+  author: byams pa kun dga byung gnas/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-12-18); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:'jam dpal dga' ba/ (Dehradun) (jg)
+  - Editorial process:Mathias Fermer (mf), 'jam dpal dga' ba/ (jg)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:'jam dpal dga' ba/ (jg)
+  text_witnesses: https://sakyaresearch.org/sources/36
+  bases:
+    0c21:
+      title: Abbatial History of gSang phu sNeu thog Monastery
+      order: 1
+      base_file: 0c21.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
